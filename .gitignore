@@ -1,3 +1,9 @@
+# Local personal files
+temp_code/
+temp_*.py
+temp_*.txt
+.notes
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
